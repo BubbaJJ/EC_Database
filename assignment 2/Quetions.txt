@@ -1,0 +1,20 @@
+1.	Vad är motsvarigheten i MongoDB till en foreign key?
+DBRefs
+
+2.	Vad är motsvarigheten till en SELECT i MongoDB?
+find()
+
+3.	Hur hade du löst del 2 och 3 i MongoDB? (du behöver inte göra en komplett lösning, men beskriv på ett ungefär hur du hade gjort)
+DBRef till dokumentet i locations
+Manuell referens direkt i dokumentet
+
+4.	Vad behöver du för information för att kunna logga in i någon annans databas?
+Hostname, Port, username, password
+
+5.	Varför skulle man vilja använda sig utav en databas?
+Struktur
+Spårbarhet
+Lagring av data
+
+6.	Nämn några andra ställen / situationer utöver databaser som CRUD används
+Filsystem, spel, 
